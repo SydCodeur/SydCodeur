@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://sydcodeur.com/sydcodeur-images/me.jpeg?raw=true" alt="Who am I ?"/>
+  <img width="260px" height="600px" src="https://sydcodeur.com/sydcodeur-images/me.jpeg?raw=true" alt="Who am I ?"/>
 </p>
 
 I am a Full Stack Web & Mobile developer.
